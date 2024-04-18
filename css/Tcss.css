@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(0, 0, 30);
+}
+
+.poser {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}
+
+ul {
+  float: right;
+  margin-right: 200px;
+  color: green;
+}
+
+li {
+  display: inline-block;
+  margin-right: 15px;
+}
+a {
+  font-size: 1.3em;
+  color: green;
+  padding-bottom: 3px;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  border-bottom: 3px black;
+}
+
+p {
+  color: green;
+
+  margin-left: 250px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h1 {
+  color: white;
+  margin-left: 250px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+  color: grey;
+  margin-left: 250px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h4 {
+  color: grey;
+  margin-left: 250px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+button {
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+  color: white;
+  text-align: center;
+  background-color: rgb(28, 200, 28);
+  padding: auto;
+}
+button:hover {
+  border-bottom: 3px black;
+  cursor: pointer;
+}
+#demo {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(231, 103, 12);
+}

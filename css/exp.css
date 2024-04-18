@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: rgb(190, 190, 211);
+}
+
+.img_auto {
+  width: 450px;
+  height: 300px;
+}
+
+.img_stm {
+  width: 450px;
+  height: 300px;
+}
+
+.colorauto{
+    color: rgb(87, 15, 221);
+}
